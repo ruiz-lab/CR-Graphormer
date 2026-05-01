@@ -7,7 +7,7 @@ This repository provides implementations of Graph Cascades based on Maximum Adja
 Make sure you have all the required dependencies installed. You can install them via:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 
